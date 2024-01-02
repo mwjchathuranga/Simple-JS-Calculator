@@ -8,12 +8,12 @@ A simple calculator app built using HTML, CSS, and JavaScript. This project serv
 - Clear and intuitive user interface
 - Responsive design for seamless use on various devices
 
-## Getting Started
+## Getting Started 🔌
 
 1. Clone or download the repository.
 2. Open `index.html` in your web browser.
 
-## Technologies Used
+## Technologies Used ⚙️
 
 - HTML5
 - CSS3
@@ -42,8 +42,8 @@ Please ensure that your pull request is well-documented and addresses a specific
 </thead>
 <tbody>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer"><img src="https://github.com/mwjchathuranga/Simple-JS-Calculator/assets/154912711/9e873f7b-5e2d-4b18-9b24-c0bf15734ad5" alt="Preview_1" style="max-width: 100%;"></a></td>
-<td align="left"><a target="_blank" rel="noopener noreferrer"><img src="https://github.com/mwjchathuranga/Simple-JS-Calculator/assets/154912711/0186c526-3dbf-4b86-a538-fce56a01ca33" alt="Preview_2" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer"><img src="https://github.com/mwjchathuranga/Simple-JS-Calculator/assets/154912711/3d021beb-6698-41b3-bfaa-46e972e230ab" alt="Preview_1" style="max-width: 100%;"></a></td>
+<td align="left"><a target="_blank" rel="noopener noreferrer"><img src="https://github.com/mwjchathuranga/Simple-JS-Calculator/assets/154912711/fb098669-1665-4d9f-9385-2932463d7030" alt="Preview_2" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
