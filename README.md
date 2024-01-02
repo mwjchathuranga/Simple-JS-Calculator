@@ -2,18 +2,18 @@
 
 A simple calculator app built using HTML, CSS, and JavaScript. This project serves as a hands-on exploration of front-end web development concepts.
 
-## Features 🔧
+## Features 🚀
 
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
 - Clear and intuitive user interface
 - Responsive design for seamless use on various devices
 
-## Getting Started 🔌
+## Getting Started 👈
 
 1. Clone or download the repository.
 2. Open `index.html` in your web browser.
 
-## Technologies Used ⚙️
+## Technologies Used 🛠️
 
 - HTML5
 - CSS3
